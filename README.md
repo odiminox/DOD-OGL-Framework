@@ -9,6 +9,7 @@ Features
 - Custom cameras
 - Basic Blinn-Phong reflection model
 - Multiple lights
+- Questionable C++ code
 
 ![10177442_450397241760792_4253336041752539232_n](https://user-images.githubusercontent.com/26551228/154507947-d0130529-a745-42db-b4f3-85c71582a907.jpg)
 
